@@ -83,7 +83,7 @@ Caso você deseje alterar as variáveis ambientes você só precisa usar um banc
 ### Instalação
 ```
 # Abra o terminal e copie este repositório com o comando
-$ git clone https://github.com/Deyvi-dev/LetmeAsk.git
+$ git clone https://github.com/Deyvi-dev/NLW-Together.git
 
 # Acesse a pasta do projeto no prompt de comando 
 $ cd LetmeAsk
