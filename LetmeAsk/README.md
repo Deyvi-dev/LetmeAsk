@@ -113,4 +113,4 @@ Tecnologias utilizadas para desenvolver o projeto:
 <p>
  <sub><strong>🌟 Deyvi_dev🌟</strong></sub>
 </p>
-.
+
